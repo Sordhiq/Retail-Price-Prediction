@@ -1,8 +1,6 @@
-# Retail-Price-Prediction
-
 # DSN Mart Sales Prediction
 
-A regression model that predicts total sales for a given product at a given store, built for the **DSN Bootcamp Qualification Hackathon 2026 (ML Track)**. The competition is scored on RMSE (lower is better).
+A regression model that predicts total sales for a given product at a given store. The competition is scored on RMSE (lower is better).
 
 ## What's in the Notebook
 
